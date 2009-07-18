@@ -6,7 +6,10 @@
  * the message appear again, which in turn may optionally persist for a 
  * configurable amount of time.
  * 
- * TODO License
+ * Copyright (c) 2009 Leftclick.com.au, Ben New
+ * 
+ * Licensed under the MIT license:
+ *   http://www.opensource.org/licenses/mit-license.php
  */
 
 ;(function($) {
