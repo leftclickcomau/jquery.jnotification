@@ -1,10 +1,9 @@
 /*
  * jnotification.js
+ * Display a user-collapsible message, using a cookie to preserve state between
+ * pages and sessions.
  * 
- * Display a message once, using a cookie to remember that it has been 
- * acknowledged by the user.  Optionally it may be replaced by a link to make
- * the message appear again, which in turn may optionally persist for a 
- * configurable amount of time.
+ * Leftclick.com.au jQuery plugin library
  * 
  * Copyright (c) 2009 Leftclick.com.au, Ben New
  * 
